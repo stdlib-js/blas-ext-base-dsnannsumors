@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dsnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnannsumors@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-dsnannsumors/tags). For example,
+
+```javascript
 import dsnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnannsumors@v0.1.1-esm/index.mjs';
 ```
 
@@ -176,7 +181,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/i
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dsnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnannsumors@v0.1.1-esm/index.mjs';
+import dsnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnannsumors@esm/index.mjs';
 
 var x;
 var i;
