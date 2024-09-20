@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-02)
+## Unreleased (2024-09-20)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`898b50d`](https://github.com/stdlib-js/stdlib/commit/898b50d8d705bdf6a55db8cf1858ea1e1d257c35) - fix includes and types
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,8 @@
 
 <details>
 
+-   [`e454c91`](https://github.com/stdlib-js/stdlib/commit/e454c91ae2af928b61effcddadb31548758f8675) - **chore:** improve code style and conditionals _(by Philipp Burckhardt)_
+-   [`898b50d`](https://github.com/stdlib-js/stdlib/commit/898b50d8d705bdf6a55db8cf1858ea1e1d257c35) - **fix:** fix includes and types _(by Philipp Burckhardt)_
 -   [`7cc8bb9`](https://github.com/stdlib-js/stdlib/commit/7cc8bb9a96147bb94fe8cfddc180a6ec535fc368) - **refactor:** update `blas/ext/base/dsnannsumors` _(by HarshaNP, Philipp Burckhardt)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
