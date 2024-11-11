@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-01)
+## Unreleased (2024-11-11)
+
+<section class="features">
+
+### Features
+
+-   [`a341f85`](https://github.com/stdlib-js/stdlib/commit/a341f857ab541502a4e2b0b4b805c41e68e46fd6) - add C `ndarray` API and refactor `blas/ext/base/dsnannsumors` [(#3086)](https://github.com/stdlib-js/stdlib/pull/3086)
+
+</section>
+
+<!-- /.features -->
 
 <section class="bug-fixes">
 
@@ -22,6 +32,7 @@
 
 <details>
 
+-   [`a341f85`](https://github.com/stdlib-js/stdlib/commit/a341f857ab541502a4e2b0b4b805c41e68e46fd6) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dsnannsumors` [(#3086)](https://github.com/stdlib-js/stdlib/pull/3086) _(by Muhammad Haris)_
 -   [`e454c91`](https://github.com/stdlib-js/stdlib/commit/e454c91ae2af928b61effcddadb31548758f8675) - **chore:** improve code style and conditionals _(by Philipp Burckhardt)_
 -   [`898b50d`](https://github.com/stdlib-js/stdlib/commit/898b50d8d705bdf6a55db8cf1858ea1e1d257c35) - **fix:** fix includes and types _(by Philipp Burckhardt)_
 -   [`7cc8bb9`](https://github.com/stdlib-js/stdlib/commit/7cc8bb9a96147bb94fe8cfddc180a6ec535fc368) - **refactor:** update `blas/ext/base/dsnannsumors` _(by HarshaNP, Philipp Burckhardt)_
@@ -38,10 +49,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   HarshaNP
+-   Muhammad Haris
 -   Philipp Burckhardt
 
 </section>
