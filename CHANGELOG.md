@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`755b053`](https://github.com/stdlib-js/stdlib/commit/755b053d5b7d5cbd675c060afc1ee049e431fdde) - **docs:** add missing header in `blas/ext/base/dsnannsumors` [(#3263)](https://github.com/stdlib-js/stdlib/pull/3263) _(by Muhammad Haris)_
 -   [`22b7505`](https://github.com/stdlib-js/stdlib/commit/22b75056694840ce79b3493940e442672bab96c6) - **refactor:** update `offset` handling and function documentation for `blas/ext/base/dsnannsumors` [(#3129)](https://github.com/stdlib-js/stdlib/pull/3129) _(by Muhammad Haris, stdlib-bot)_
 -   [`a341f85`](https://github.com/stdlib-js/stdlib/commit/a341f857ab541502a4e2b0b4b805c41e68e46fd6) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dsnannsumors` [(#3086)](https://github.com/stdlib-js/stdlib/pull/3086) _(by Muhammad Haris)_
