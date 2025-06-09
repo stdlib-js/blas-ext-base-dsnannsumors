@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-06-09)
 
 <section class="features">
 
@@ -26,12 +26,25 @@
 
 <!-- /.bug-fixes -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#7241](https://github.com/stdlib-js/stdlib/issues/7241)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`dde0849`](https://github.com/stdlib-js/stdlib/commit/dde0849e582545d8e2a213ba1039238cdcff1ec5) - **chore:** fix C lint errors [(#7286)](https://github.com/stdlib-js/stdlib/pull/7286) _(by Pierre Forstmann, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`755b053`](https://github.com/stdlib-js/stdlib/commit/755b053d5b7d5cbd675c060afc1ee049e431fdde) - **docs:** add missing header in `blas/ext/base/dsnannsumors` [(#3263)](https://github.com/stdlib-js/stdlib/pull/3263) _(by Muhammad Haris)_
 -   [`22b7505`](https://github.com/stdlib-js/stdlib/commit/22b75056694840ce79b3493940e442672bab96c6) - **refactor:** update `offset` handling and function documentation for `blas/ext/base/dsnannsumors` [(#3129)](https://github.com/stdlib-js/stdlib/pull/3129) _(by Muhammad Haris, stdlib-bot)_
@@ -52,12 +65,13 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   HarshaNP
 -   Muhammad Haris
 -   Philipp Burckhardt
+-   Pierre Forstmann
 
 </section>
 
