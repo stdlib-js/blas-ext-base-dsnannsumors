@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dsnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnannsumors@deno/mod.js';
+import dsnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnannsumors@v0.3.1-deno/mod.js';
 ```
 
 #### dsnannsumors( N, x, strideX, out, strideOut )
@@ -165,7 +165,7 @@ import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoul
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import dsnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnannsumors@deno/mod.js';
+import dsnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnannsumors@v0.3.1-deno/mod.js';
 
 function rand() {
     if ( bernoulli( 0.5 ) < 0.2 ) {
